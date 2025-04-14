@@ -1,6 +1,6 @@
 # 🛡️ Comprehensive Bug Bounty Checklist (Basic to Advanced)
 
-This checklist provides a structured approach to bug bounty hunting — from beginner steps to advanced techniques — and includes tools you can use at every level.
+This checklist provides a structured approach to bug bounty hunting —> from beginner steps to advanced techniques and includes tools you can use at every level.
 
 ---
 
